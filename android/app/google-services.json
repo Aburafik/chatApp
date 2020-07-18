@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338390698271",
+    "firebase_url": "https://chat-app-38055.firebaseio.com",
+    "project_id": "chat-app-38055",
+    "storage_bucket": "chat-app-38055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338390698271:android:58486268c230f618ba482a",
+        "android_client_info": {
+          "package_name": "co.citizen.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338390698271-uhos0g1ve5k6obebnj3csvne33m7ufku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIlnEVh9gpvJPmp0jDtby1TTQJnckHlj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338390698271-uhos0g1ve5k6obebnj3csvne33m7ufku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
